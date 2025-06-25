@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amna Javaid</h1>
-<h3 align="center">A Data Science student</h3>
+<h3 align="center">A Data Science student with a deep interest in AI/ML</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [amnajavaid25](amnajavaid25)
 
-- 📫 How to reach me **amnaj25902@gmail.com**
+- 📫 How to reach me **amnajfast@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
